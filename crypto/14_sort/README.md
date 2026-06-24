@@ -18,3 +18,6 @@ PPC (Programming Puzzle & Challenges)
 - `str(list)`で配列を文字列に変換できる
 - `replace()`で不要な文字を除去できる
 - 手作業で無理な量でもプログラムで一瞬で解ける
+
+## スクリプト
+[コードはココ](solve.py)
