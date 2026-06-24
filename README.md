@@ -23,3 +23,4 @@
 | Misc | Test Problem | なし | フラグフォーマットの確認 |
 | Crypto | Caesar Cipher | アルファベット表, Python | シーザー暗号の仕組み |
 | Reversing | exec_me | file, chmod | ELFバイナリの実行方法 |
+| Misc | Can you open this file ? | file, Word | 拡張子がなくてもfileコマンドでファイル種類を特定できる |
