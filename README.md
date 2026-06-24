@@ -25,4 +25,5 @@
 | Reversing | exec_me | file, chmod | ELFバイナリの実行方法 |
 | Misc | Can you open this file ? | file, Word | 拡張子がなくてもfileコマンドでファイル種類を特定できる |
 | Forensics | River | Exif確認くん | JPEGにはExif情報として位置情報が含まれる |
-| Network | pcap | Wireshark | パケットの生データにASCII文字列が含まれることがある |G
+| Network | pcap | Wireshark | パケットの生データにASCII文字列が含まれることがある |
+| Crypto | HashHashHash! | Google検索 | SHA1は既知ハッシュをレインボーテーブルで逆引きできる |
