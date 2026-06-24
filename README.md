@@ -24,3 +24,4 @@
 | Crypto | Caesar Cipher | アルファベット表, Python | シーザー暗号の仕組み |
 | Reversing | exec_me | file, chmod | ELFバイナリの実行方法 |
 | Misc | Can you open this file ? | file, Word | 拡張子がなくてもfileコマンドでファイル種類を特定できる |
+| Forensics | River | Exif確認くん | JPEGにはExif情報として位置情報が含まれる |
